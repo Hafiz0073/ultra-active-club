@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "courseName": "C",
+        "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/da/bb19ee6bd54bc7926f981bac230c21/CThumbnail_PartA-01.jpg",
+        "Details": "This course is for everyone. In the new world we live in, coding is a universally valuable skill, whether you're a scientist, artist, or a humanist. ",
+        "duration": 230
+    },
+    {
+        "id": 2,
+        "courseName": "C++",
+        "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/70/d28a28b3b24adc82008ce9acf33155/Specialization-Logo.png",
+        "Details": "Hands-on Introduction to C++ Programming. Code and run your first C++ program in minutes without installing anything!",
+        "duration": 260
+    },
+    {
+        "id": 3,
+        "courseName": "C#",
+        "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/13/b9e5aed0a3442c8fcb88da8b63c12f/Beg-Part-1-Logo.png",
+        "Details": "Object oriented programming is a widely utilized programming paradigm and one of the main technical skills required to land a software engineering position in any IT company.",
+        "duration": 280
+    },
+    {
+        "id": 4,
+        "courseName": "PHP",
+        "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/11/df42a094c211e796a707f2175a9fb3/WA4E_thumbnail_PHP_1x1_2.png",
+        "Details": "In this course, you'll explore the basic structure of a web application, and how a web browser interacts with a web server. You'll be introduced to the request/response cycle, including GET/POST/Redirect.",
+        "duration": 330
+    },
+    {
+        "id": 5,
+        "courseName": "JavaScript",
+        "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/78/bf51e094c211e78308116c229500da/WA4E_thumbnail_JS_1x1.png",
+        "Details": "In this course, we'll look at the JavaScript language, and how it supports the Object-Oriented pattern, with a focus on the unique aspect of how JavaScript approaches OO. We'll explore a brief introduction to the jQuery library, ..",
+        "duration": 430
+    },
+    {
+        "id": 6,
+        "courseName": "React JS",
+        "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/eb/cab7f07dd411e8991ff71ead974a6c/Slide1.png",
+        "Details": "The first two courses in this Specialization cover front-end frameworks: Bootstrap 4 and React. On the server side, you’ll learn to implement NoSQL databases using MongoDB, work within a Node.js..",
+        "duration": 530
+    }
+]
