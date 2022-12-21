@@ -16,6 +16,7 @@ const Calculations = ({ timeCart }) => {
             <h3 className='add-break'>Add a Break</h3>
             <Break></Break>
             <h5 className='total-times'>Total Times <span>{totalTimes} Hours</span></h5>
+            <button className='final-button' >Activity Completed</button>
         </div>
     );
 };

@@ -6,7 +6,13 @@
 }
 
 .logo-tag {
-    font-size: large;
+    font-size: 30px;
     font-weight: 700;
-    color: cornflowerblue;
+    color: rgb(6, 26, 61);
+}
+
+.tag-special {
+    font-size: 30px;
+    font-weight: 700;
+    color: darkorange
 }
