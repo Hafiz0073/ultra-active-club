@@ -7,7 +7,7 @@ const Profile = () => {
         <div>
             <div className="profile-container">
                 <img src={userImg} alt="" />
-                <p>Md Hafizur Rahman</p>
+                <h4>Md Hafizur Rahman</h4>
             </div>
             <div className="user-details">
                 <div className="weight">

@@ -8,10 +8,28 @@
     border-radius: 30px;
 }
 
+.profile-container h4 {
+    margin-left: 10px;
+}
+
 .user-details {
+    background-color: rgb(203, 194, 194);
+    margin-top: 15px;
+    border-radius: 10px;
     display: flex;
+    text-align: center;
 }
 
 .weight {
-    padding-left: 18px;
+    padding-left: 28px;
+}
+
+.weight p {
+    font-weight: 600;
+}
+
+.user-footer {
+    line-height: 3px;
+    color: #5c758b;
+    font-size: 15px;
 }

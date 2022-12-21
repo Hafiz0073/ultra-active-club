@@ -1,5 +1,6 @@
 .break-btn {
-    background-color: rgb(132, 137, 135);
+    background-color: rgb(203, 194, 194);
+    border-radius: 10px;
 }
 
 .break-btn button {
@@ -14,4 +15,19 @@
 .break-btn button:hover {
     background-color: rgb(39, 78, 219);
     color: #fff;
+}
+
+.break h5 {
+    padding-left: 12px;
+}
+
+.break-seconds {
+    background-color: rgb(203, 194, 194);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.break-seconds span {
+    margin-left: 9px;
+    color: rgb(84 91 112)
 }

@@ -14,7 +14,7 @@ const Calculations = ({ timeCart }) => {
         <div><Profile></Profile>
             <h2>Add a Break</h2>
             <Break></Break>
-            <h1>Total Times {totalTimes} Minutes</h1>
+            <h5>Total Times <span>{totalTimes} Hours</span></h5>
         </div>
     );
 };

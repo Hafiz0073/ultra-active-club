@@ -20,8 +20,8 @@ const Break = () => {
                 <button onClick={() => handleBreak(70)}>70s</button>
                 <button onClick={() => handleBreak(80)}>80s</button>
             </div>
-
-            <h2>{getBreakTime}</h2>
+            <h2>Courses List</h2>
+            <h5 className='break-seconds'>Break Time  <span> {getBreakTime}  seconds</span></h5>
         </div>
     );
 };
