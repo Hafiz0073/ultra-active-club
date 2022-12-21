@@ -1,0 +1,17 @@
+.profile-container {
+    display: flex;
+}
+
+.profile-container img {
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+}
+
+.user-details {
+    display: flex;
+}
+
+.weight {
+    padding-left: 18px;
+}

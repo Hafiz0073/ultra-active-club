@@ -1,8 +1,10 @@
 import React from 'react';
 import './Course.css'
 
-const Course = ({ course }) => {
-    const { id, img, courseName, Details, duration } = course;
+const Course = ({ course, handleCourse }) => {
+    const { img, courseName, Details, duration } = course;
+    // console.log(handleCourse, course)
+
     return (
         <div className='course-container'>
             <img src={img} alt="" />
@@ -11,7 +13,7 @@ const Course = ({ course }) => {
                 <p>{Details}</p>
                 <p><small>Course Duration : {duration} Minutes</small></p>
             </div>
-            <button className='btn-course'><p>Add to Courses List</p></button>
+            <button className='btn-course' onClick={() => handleCourse(course)} ><p>Add to Courses List</p></button>
 
         </div>
     );

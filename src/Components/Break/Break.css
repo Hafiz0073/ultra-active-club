@@ -1,0 +1,17 @@
+.break-btn {
+    background-color: rgb(132, 137, 135);
+}
+
+.break-btn button {
+    border: none;
+    background-color: rgb(253, 252, 255);
+    font-size: 22px;
+    margin: 10px;
+    border-radius: 19px;
+    padding: 5px;
+}
+
+.break-btn button:hover {
+    background-color: rgb(39, 78, 219);
+    color: #fff;
+}

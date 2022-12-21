@@ -1,3 +1,8 @@
+.courses-main-container {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+
 .courses-container {
     background-color: rgb(228 241 235);
     display: grid;
