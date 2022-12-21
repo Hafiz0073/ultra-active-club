@@ -30,7 +30,7 @@ const Courses = () => {
 
                 }
             </div>
-            <div>
+            <div className='calculation-container'>
                 <Calculations timeCart={timeCart}>
                 </Calculations>
             </div>

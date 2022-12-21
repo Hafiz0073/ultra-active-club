@@ -1,6 +1,7 @@
 import React from 'react';
 import Break from '../Break/Break';
 import Profile from '../Profile/Profile';
+import './Calculation.css'
 
 const Calculations = ({ timeCart }) => {
     // console.log(breakTimes)
@@ -12,9 +13,9 @@ const Calculations = ({ timeCart }) => {
     }
     return (
         <div><Profile></Profile>
-            <h2>Add a Break</h2>
+            <h3 className='add-break'>Add a Break</h3>
             <Break></Break>
-            <h5>Total Times <span>{totalTimes} Hours</span></h5>
+            <h5 className='total-times'>Total Times <span>{totalTimes} Hours</span></h5>
         </div>
     );
 };

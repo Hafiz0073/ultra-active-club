@@ -6,15 +6,19 @@
 .break-btn button {
     border: none;
     background-color: rgb(253, 252, 255);
-    font-size: 22px;
-    margin: 10px;
+    font-size: 20px;
+    margin: 8px;
     border-radius: 19px;
-    padding: 5px;
+    padding: 6px;
 }
 
 .break-btn button:hover {
     background-color: rgb(39, 78, 219);
     color: #fff;
+}
+
+.break h3 {
+    margin-top: 40px;
 }
 
 .break h5 {

@@ -1,0 +1,14 @@
+.total-times {
+    background-color: rgb(203, 194, 194);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.total-times span {
+    margin-left: 9px;
+    color: rgb(84 91 112)
+}
+
+.add-break {
+    margin-top: 30px;
+}
